@@ -1,0 +1,11 @@
+*.sqlite
+*.pyc
+*.exe
+login.yaml
+*.log
+.git.old/
+*.sqlite
+digitalocean-keys/*
+config/*
+venv/*
+*.json

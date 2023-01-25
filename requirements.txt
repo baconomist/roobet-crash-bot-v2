@@ -1,0 +1,10 @@
+selenium
+webdriver-manager
+orator
+matplotlib~=3.6.2
+scikit-learn
+tensorflow
+undetected-chromedriver
+PyYAML
+flask
+requests~=2.28.0
